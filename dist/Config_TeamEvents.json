@@ -1,0 +1,35 @@
+{
+    "match_format": "五场三胜制",
+    "match_type": "男单",
+    "team_a_name": "队伍A",
+    "team_b_name": "队伍B",
+    "player_a_name": "选手A",
+    "player_b_name": "选手B",
+    "games_per_match": "三局二胜",
+    "joystick_buttons": {
+        "left_add_score": {
+            "type": "hat",
+            "value": 1
+        },
+        "left_subtract_score": {
+            "type": "hat",
+            "value": -1
+        },
+        "right_add_score": {
+            "type": "button",
+            "value": 3
+        },
+        "right_subtract_score": {
+            "type": "button",
+            "value": 0
+        },
+        "new_over": {
+            "type": "button",
+            "value": 1
+        },
+        "change_ends": {
+            "type": "button",
+            "value": 2
+        }
+    }
+}
